@@ -12,3 +12,14 @@ If you buy something for the good of the group (snacks, drinks, a new vaccuum...
 It is so hard to keep track of how much money everyone in a group has been spending. Dealing with the headache of paying small amounts every time someone buys something is not worth it when you know you're just going to buy more things tomorrow. This keeps it simple and streamlined. If the balance is off at the end of the summer, *then* you can get Venmoing. 
 
 ![photo](http://www.apfn.org/images/FenceClub1960Yale.jpg)
+
+#Technical Stuff: 
+Params: take in name, item, and amount. Have a method that will calculate. 
+**Questions:**
+- Safeguarding against typing the wrong name
+- Incorporating Venmo or some kind of e-payment
+  - Could you auto-charge? 
+- Confirming an entry
+- Deleting an entry
+- Persistent data storage? 
+- Live updating? 
